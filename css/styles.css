@@ -1,8 +1,8 @@
-.page-head{
-  background: #FFFFFF;
+.page-head {
+  background: #ffffff;
 }
 
-.logo{
+.logo {
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
@@ -12,12 +12,12 @@
   color: #212121;
 }
 
-.part-logo-web{
-  color: #2196F3;
+.part-logo-web {
+  color: #2196f3;
 }
 
-.site-nav{
-  font-family: 'Roboto', sans-serif;
+.site-nav {
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -25,12 +25,12 @@
   letter-spacing: 0.02em;
 }
 
-.site-nav-link{
+.site-nav-link {
   color: #212121;
 }
 
-.header-address-container{
-  font-family: 'Roboto', sans-serif;
+.header-address-container {
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -38,28 +38,28 @@
   letter-spacing: 0.02em;
 }
 
-.header-address-link{
+.header-address-link {
   color: #757575;
 }
 
-.page-hero{
-  background: #2F303A;
-  font-family: 'Roboto', sans-serif;
+.page-hero {
+  background: #2f303a;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   text-align: center;
 }
 
-.title-hero{
+.title-hero {
   font-weight: 900;
   font-size: 44px;
   line-height: 60px;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
   letter-spacing: 0.06em;
 }
 
-.button-order-service{
-  background-color: #2196F3;
+.button-order-service {
+  background-color: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   font-weight: bold;
   font-size: 16px;
@@ -68,21 +68,21 @@
   align-items: center;
   border-radius: 4px;
   letter-spacing: 0.06em;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
-.features-container{
-  background: #FFFFFF;
-  font-family: 'Roboto', sans-serif;
+.features-container {
+  background: #ffffff;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   letter-spacing: 0.03em;
 }
 
-.title-features{
+.title-features {
   display: none;
 }
 
-.title-paragraph-features{
+.title-paragraph-features {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 14px;
@@ -90,19 +90,19 @@
   color: #212121;
 }
 
-.text-paragraph-features{
+.text-paragraph-features {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
   color: #757575;
 }
 
-.services-container{
-  background: #FFFFFF;
+.services-container {
+  background: #ffffff;
 }
 
-.section-titles{
-  font-family: 'Roboto', sans-serif;
+.section-titles {
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
@@ -112,14 +112,15 @@
   color: #212121;
 }
 
-.team-container{
-  background: #F5F4FA;
+.team-container {
+  background: #f5f4fa;
 }
 
-.employee-card{
-  background: #FFFFFF;
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
-  font-family: 'Roboto', sans-serif;
+.employee-card {
+  background: #ffffff;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-size: 16px;
   line-height: 19px;
@@ -127,34 +128,34 @@
   letter-spacing: 0.03em;
 }
 
-.title-employee-card{
+.title-employee-card {
   font-weight: 500;
   color: #212121;
 }
 
-.employee-position{
+.employee-position {
   font-weight: normal;
   color: #757575;
 }
 
-.footer-container{
-  background: #2F303A;
+.footer-container {
+  background: #2f303a;
 }
 
-.logo-footer{
-  color: #FFFFFF;
+.logo-footer {
+  color: #ffffff;
 }
 
-.post-address{
-  color: #FFFFFF;
+.post-address {
+  color: #ffffff;
   font-size: 14px;
   line-height: 24px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
 }
 
-.footer-address-container{
-  font-family: 'Roboto', sans-serif;
+.footer-address-container {
+  font-family: "Roboto", sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 14px;
@@ -162,18 +163,18 @@
   letter-spacing: 0.03em;
 }
 
-.footer-address-link{
+.footer-address-link {
   color: rgba(255, 255, 255, 0.6);
 }
 
-.nav-projects-container{
-  background: #FFFFFF;
+.nav-projects-container {
+  background: #ffffff;
 }
 
-.button-nav-projects{
-  background: #F5F4FA;
-  border-color: #F5F4FA;
-  font-family: 'Roboto', sans-serif;
+.button-nav-projects {
+  background: #f5f4fa;
+  border-color: #f5f4fa;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -184,19 +185,19 @@
   border-radius: 4px;
 }
 
-.projects-cards-container{
-  background: #FFFFFF;
-  font-family: 'Roboto', sans-serif;
+.projects-cards-container {
+  background: #ffffff;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
 }
 
-.project-card{
-  background: #FFFFFF;
-  border: 1px solid #EEEEEE;
+.project-card {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
   box-sizing: border-box;
 }
 
-.title-project{
+.title-project {
   font-weight: bold;
   font-size: 18px;
   line-height: 36px;
@@ -204,7 +205,7 @@
   color: #212121;
 }
 
-.project-type{
+.project-type {
   font-weight: normal;
   font-size: 16px;
   line-height: 30px;
@@ -214,28 +215,37 @@
 
 /*Псевдоклассы*/
 
-.logo:focus{
-  outline-color: #2196F3;
+.logo:focus {
+  outline-color: #2196f3;
 }
 
 .site-nav-link:hover,
-.site-nav-link:focus{
-  color: #2196F3;
+.site-nav-link:focus {
+  color: #2196f3;
+  outline-color: #2196f3;
 }
 
 .address-link:hover,
-.address-link:focus{
-  color: #2196F3;
+.address-link:focus {
+  color: #2196f3;
+  outline-color: #2196f3;
 }
 
-.button-order-service:focus{
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+.button-order-service:hover,
+.button-order-service:focus {
+  background-color: #ffffff;
+  color: #2196f3;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  outline-color: #ffffff;
 }
 
 .button-nav-projects:hover,
-.button-nav-projects:focus{
-  background: #2196F3;
-  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
-  color: #FFFFFF;
+.button-nav-projects:focus {
+  background: #2196f3;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  color: #ffffff;
   border-radius: 4px;
+  outline-color: #ffffff;
 }
