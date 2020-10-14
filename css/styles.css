@@ -218,6 +218,7 @@ a {
 
 .nav-projects-container {
   background: #ffffff;
+  margin-top: 95px;
 }
 
 .button-nav-projects {
@@ -238,12 +239,19 @@ a {
   background: #ffffff;
   font-family: "Roboto", sans-serif;
   font-style: normal;
+  margin-top: 50px;
+  margin-bottom: 95px;
 }
 
 .project-card {
   background: #ffffff;
   border: 1px solid #eeeeee;
   box-sizing: border-box;
+  width: 370px;
+}
+
+.project-card-description {
+  padding: 20px 25px;
 }
 
 .title-project {
@@ -252,6 +260,8 @@ a {
   line-height: 36px;
   letter-spacing: 0.06em;
   color: #212121;
+  margin-top: 0px;
+  margin-bottom: 5px;
 }
 
 .project-type {
@@ -260,6 +270,7 @@ a {
   line-height: 30px;
   letter-spacing: 0.03em;
   color: #757575;
+  margin: 0px;
 }
 
 /*Псевдоклассы*/
