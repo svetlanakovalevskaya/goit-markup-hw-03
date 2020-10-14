@@ -185,6 +185,7 @@ a {
 
 .footer-container {
   background: #2f303a;
+  padding: 60px 0px;
 }
 
 .logo-footer {
@@ -197,6 +198,8 @@ a {
   line-height: 24px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
+  margin-bottom: 10px;
+  margin-top: 20px;
 }
 
 .footer-address-container {
@@ -210,6 +213,7 @@ a {
 
 .footer-address-link {
   color: rgba(255, 255, 255, 0.6);
+  inline-size: 10px;
 }
 
 .nav-projects-container {
