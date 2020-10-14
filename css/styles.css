@@ -8,6 +8,10 @@ ul {
   list-style-type: none; /* Убираем маркеры */
 }
 
+a {
+  text-decoration: none;
+}
+
 .page-head {
   background: #ffffff;
 }
