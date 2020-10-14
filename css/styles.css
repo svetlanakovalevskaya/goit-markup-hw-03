@@ -131,6 +131,7 @@ a {
 
 .services-container {
   background: #ffffff;
+  padding-bottom: 94px;
 }
 
 .section-titles {
@@ -148,6 +149,7 @@ a {
 
 .team-container {
   background: #f5f4fa;
+  padding: 94px 0px;
 }
 
 .employee-card {
