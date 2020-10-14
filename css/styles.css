@@ -1,11 +1,6 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 ul {
   list-style-type: none; /* Убираем маркеры */
+  margin: 0;
 }
 
 a {
@@ -76,6 +71,8 @@ a {
   text-transform: uppercase;
   color: #ffffff;
   letter-spacing: 0.06em;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .button-order-service {
@@ -90,7 +87,7 @@ a {
   letter-spacing: 0.06em;
   color: #ffffff;
   min-width: 200px;
-  height: 50px;
+  min-height: 50px;
   padding: 10px 32px;
 }
 
