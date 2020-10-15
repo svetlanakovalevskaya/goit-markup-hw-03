@@ -16,6 +16,8 @@ a {
 
 .page-head {
   background: #ffffff;
+  display: flex;
+  align-items: center;
 }
 
 .logo {
