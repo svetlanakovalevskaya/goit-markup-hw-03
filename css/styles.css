@@ -8,16 +8,25 @@ a {
   text-decoration: none;
 }
 
+img {
+  display: block;
+}
+
 .container {
   width: 1230px;
   margin-left: auto;
   margin-right: auto;
 }
 
+.features-container ul,
+.services-container ul,
+.team-container ul {
+  display: flex;
+  justify-content: space-between;
+}
+
 .page-head {
   background: #ffffff;
-  display: flex;
-  align-items: center;
 }
 
 .logo {
@@ -61,6 +70,8 @@ a {
 }
 
 .page-hero {
+  min-height: 600px;
+  padding: 200px;
   background: #2f303a;
   font-family: "Roboto", sans-serif;
   font-style: normal;
