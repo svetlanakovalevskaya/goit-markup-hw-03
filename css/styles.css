@@ -220,7 +220,8 @@ img {
 
 .footer-container {
   background: #2f303a;
-  padding: 60px 0px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .logo-footer {
@@ -261,6 +262,10 @@ img {
   justify-content: center;
 }
 
+.nav-projects-container > ul > li:not(:last-child) {
+  margin-right: 8px;
+}
+
 .button-nav-projects {
   background: #f5f4fa;
   border-color: #f5f4fa;
@@ -299,6 +304,11 @@ img {
   border: 1px solid #eeeeee;
   box-sizing: border-box;
   width: 370px;
+}
+
+.project-card img {
+  width: 100%;
+  height: auto;
 }
 
 .project-card-description {
