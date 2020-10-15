@@ -26,10 +26,13 @@ img {
 }
 
 .page-head {
+  padding-top: 25px;
+  padding-bottom: 25px;
   background: #ffffff;
 }
 
 .logo {
+  margin-right: 93px;
   font-family: Raleway, sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -44,6 +47,8 @@ img {
 }
 
 .site-nav {
+  display: flex;
+  margin-right: 331px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -52,11 +57,19 @@ img {
   letter-spacing: 0.02em;
 }
 
+.site-nav .item:not(:last-child) {
+  margin-right: 50px;
+}
+
 .site-nav-link {
+  display: block;
   color: #212121;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .header-address-container {
+  margin-left: auto;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -69,9 +82,18 @@ img {
   color: #757575;
 }
 
+.header-address-link:not(:last-child) {
+  margin-right: 50px;
+}
+
+.header-menu,
+.main-nav {
+  display: flex;
+  align-items: center;
+}
+
 .page-hero {
-  min-height: 600px;
-  padding: 200px;
+  padding: 200px 215px;
   background: #2f303a;
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -234,6 +256,11 @@ img {
   margin-top: 95px;
 }
 
+.nav-projects-container ul {
+  display: flex;
+  justify-content: center;
+}
+
 .button-nav-projects {
   background: #f5f4fa;
   border-color: #f5f4fa;
@@ -256,7 +283,18 @@ img {
   margin-bottom: 95px;
 }
 
+.projects-cards-container ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -30px;
+  margin-bottom: -30px;
+}
+
 .project-card {
+  margin-right: 30px;
+  margin-bottom: 30px;
+  flex-basis: calc((100% - 3 * 30px) / 3);
+  align-content: stretch;
   background: #ffffff;
   border: 1px solid #eeeeee;
   box-sizing: border-box;
