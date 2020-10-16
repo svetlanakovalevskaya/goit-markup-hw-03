@@ -29,6 +29,7 @@ img {
   padding-top: 25px;
   padding-bottom: 25px;
   background: #ffffff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
 }
 
 .logo {
@@ -93,7 +94,8 @@ img {
 }
 
 .page-hero {
-  padding: 200px 215px;
+  padding-top: 200px;
+  padding-bottom: 200px;
   background: #2f303a;
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -252,17 +254,21 @@ img {
   inline-size: 10px;
 }
 
-.nav-projects-container {
+.portfolio-page {
+  padding-top: 94px;
+  padding-bottom: 94px;
   background: #ffffff;
-  margin-top: 95px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
 }
 
-.nav-projects-container ul {
+.nav-projects {
   display: flex;
   justify-content: center;
+  margin-bottom: 50px;
 }
 
-.nav-projects-container > ul > li:not(:last-child) {
+.nav-projects > li:not(:last-child) {
   margin-right: 8px;
 }
 
@@ -281,14 +287,6 @@ img {
 }
 
 .projects-cards-container {
-  background: #ffffff;
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  margin-top: 50px;
-  margin-bottom: 95px;
-}
-
-.projects-cards-container ul {
   display: flex;
   flex-wrap: wrap;
   margin-right: -30px;
