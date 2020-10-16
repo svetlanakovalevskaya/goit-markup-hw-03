@@ -273,6 +273,7 @@ img {
 }
 
 .button-nav-projects {
+  padding: 6px 22px;
   background: #f5f4fa;
   border-color: #f5f4fa;
   font-family: "Roboto", sans-serif;
